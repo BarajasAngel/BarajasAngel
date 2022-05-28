@@ -1,6 +1,9 @@
 <h1 align="center">Hola 👋, Soy Luis Angel</h1>
 <h3 align="center">Soy un Fulls Stack Web Developer JR apasionado 😌</h3>
 
+He participado en el proyecto LaunchX de parte de Microsoft en el cual aprendi los fundamentos necesarios para poder ser un Desarrollador Full Stack Web Developer, viendo Html,CSS,JS,Vue.JS en el FrontEnd mientras que Java y Spring en el BackEnd. Tambien fui uno de los ganadores del hackaton realizado por LaunchX llamado HACK THE OCEAN con la aplicacion: [DÄZABI](https://gentle-field-0d71f6c10.1.azurestaticapps.net/), tambien la puedes ver desde su repositorio principal el cual es: [https://github.com/BarajasAngel/Waste2Money.git](https://github.com/BarajasAngel/Waste2Money.git).
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barajasangel&label=Profile%20views&color=0e75b6&style=flat" alt="barajasangel" /> </p>
 
 - 💬 Ask me about **HTML,CSS, JS, Vue.JS,C#,MVC .NET Core**
