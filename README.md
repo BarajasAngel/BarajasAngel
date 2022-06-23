@@ -14,7 +14,7 @@ He participado en el proyecto LaunchX de parte de Microsoft en el cual aprendi l
 <p align="left">
 <a href="https://www.linkedin.com/in/luis-angel-barajas-arroyo-616345211/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis angel barajas arroyo" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Certificate:</h3>
 <p align="left">
 <a href="https://www.credly.com/badges/bc5cd2b7-d703-4b53-b2a7-27a0ce324a09/public_url" target="_blank"><img align="center" src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="30" width="40" /></a>
 </p>
