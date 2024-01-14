@@ -1,26 +1,37 @@
-<h1 align="center">Hola 👋, Soy Luis Angel</h1>
-<h3 align="center">Soy un Fulls Stack Web Developer JR apasionado 😌</h3>
 
-He participado en el proyecto LaunchX de parte de Microsoft en el cual aprendi los fundamentos necesarios para poder ser un Desarrollador Full Stack Web Developer, viendo Html,CSS,JS,Vue.JS en el FrontEnd mientras que Java y Spring en el BackEnd. Tambien fui uno de los ganadores del hackaton realizado por LaunchX llamado HACK THE OCEAN con la aplicacion: [DÄZABI](https://gentle-field-0d71f6c10.1.azurestaticapps.net/), tambien la puedes ver desde su repositorio principal el cual es: [https://github.com/BarajasAngel/Waste2Money.git](https://github.com/BarajasAngel/Waste2Money.git).
+# 👋 Hola, soy Luis Angel - `Desarrollador Full Stack Web`
 
+```csharp
+// -----------------------------------------------
+// Información de Perfil
+// -----------------------------------------------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barajasangel&label=Profile%20views&color=0e75b6&style=flat" alt="barajasangel" /> </p>
+string nombre = "Luis Angel";
+string rol = "Desarrollador Full Stack Web con enfoque en C# y Blazor";
+```
 
-- 💬 Ask me about **HTML,CSS, JS, Vue.JS,C#,MVC .NET Core**
+## 💻 Sobre Mí
+Con más de un año de experiencia trabajando en una consultora, he desarrollado habilidades avanzadas en C# y Blazor, creando aplicaciones web eficientes y modernas. Participé en **Microsoft LaunchX**, donde adquirí habilidades en tecnologías web como HTML, CSS, JS y Vue.JS en el FrontEnd, así como Java y Spring en el BackEnd. Fui ganador del **Hackathon HACK THE OCEAN** con la aplicación DÄZABI. Mi enfoque actual es el desarrollo con **C# y Blazor con WebAssembly**, lo que me permite crear experiencias de usuario interactivas y de alto rendimiento.
 
-- 📫 How to reach me **barajasb15@gmail.com**
+## 🛠️ Habilidades y Herramientas
+- **Lenguajes Principales**: C#, JavaScript
+- **Frameworks y Herramientas**: .NET Core, Blazor, Vue.js, SQL Server
+- **Otras Tecnologías**: HTML, CSS, Docker, Node.js, Python
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/luis-angel-barajas-arroyo-616345211/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis angel barajas arroyo" height="30" width="40" /></a>
-</p>
-<h3 align="left">Certificate:</h3>
-<p align="left">
-<a href="https://www.credly.com/badges/bc5cd2b7-d703-4b53-b2a7-27a0ce324a09/public_url" target="_blank"><img align="center" src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🌟 Proyectos Destacados
+- [DÄZABI](https://gentle-field-0d71f6c10.1.azurestaticapps.net/) - Aplicación ganadora en HACK THE OCEAN. [GitHub Repo](https://github.com/BarajasAngel/Waste2Money.git)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barajasangel&show_icons=true&locale=en&layout=compact" alt="barajasangel" /></p>
+## 📈 Estadísticas de GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=barajasangel&show_icons=true&locale=en&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barajasangel&)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barajasangel&" alt="barajasangel" /></p>
+## 📫 Contacto
+- Email: [barajasb15@gmail.com](mailto:barajasb15@gmail.com)
+- LinkedIn: [¡Conéctate conmigo!](https://www.linkedin.com/in/luis-angel-barajas-arroyo-616345211/)
+
+## 🏆 Certificaciones
+[![Certificación](https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/bc5cd2b7-d703-4b53-b2a7-27a0ce324a09/public_url)
+
+---
+
+> 🚀 Este README refleja mi pasión por el aprendizaje continuo y mi dedicación para mantenerme al día con las últimas tendencias en desarrollo web. Siempre en busca de colaborar en proyectos emocionantes y desafiantes.
